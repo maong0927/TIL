@@ -4,6 +4,7 @@
 
 - [x]  CSS 공부
 - [x]  git 공부
+- [x]  html 공부
 
 # ❤️ CSS 공부 ❤️
 
